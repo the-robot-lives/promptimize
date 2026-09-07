@@ -1,0 +1,20 @@
+# Node / build
+node_modules/
+dist/
+out/
+build/
+*.vsix
+*.zip
+
+# VS Code extension dev
+.vscode-test/
+.vscode-test-web/
+
+# Env & secrets
+.env*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
