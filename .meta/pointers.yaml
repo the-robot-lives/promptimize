@@ -1,5 +1,17 @@
 ---
 pointers:
+  118177e1-3fbb-53bd-a7a1-a32af613f5c2:
+    created_at: 2026-10-27T04:02:25.352346Z
+    description: Data-model reference for promptimize (draft API shapes).
+    file_path: docs/PROJ-SCHEMA.md
+    function: PROJ-SCHEMA
+    kind: file
+    line: 3
+    locations:
+      - file_path: docs/PROJ-SCHEMA.md
+        line: 3
+    token: 𓛩𓿝𓻭𓨢
+    updated_at: 2026-10-27T04:02:25.352346Z
   11e95da5-be31-57ee-af64-7d98071041f3:
     created_at: 2026-10-27T04:01:08.421327Z
     description: Draft resource/endpoint contract for the shared prompt store.
@@ -12,6 +24,18 @@ pointers:
         line: 3
     token: 𔈒𓛾𓰐𔐃
     updated_at: 2026-10-27T04:01:08.421327Z
+  9c6fe096-8fdc-52d8-ac75-ed2dcf1dcfa3:
+    created_at: 2026-10-27T04:02:25.352359Z
+    description: High-level architecture overview for promptimize.
+    file_path: docs/PROJ-ARCH.md
+    function: PROJ-ARCH
+    kind: file
+    line: 3
+    locations:
+      - file_path: docs/PROJ-ARCH.md
+        line: 3
+    token: 𓩤𔁴𓱜𓉃
+    updated_at: 2026-10-27T04:02:25.352359Z
   9d2e788e-1b45-5921-a9e2-6e11570e2761:
     created_at: 2026-10-27T04:01:08.421313Z
     description: 'Project entry point: what/why, clients, backend contract pointers.'
@@ -24,3 +48,27 @@ pointers:
         line: 3
     token: 𓳗𓟌𓔏𓆱
     updated_at: 2026-10-27T04:01:08.421313Z
+  b5f0c732-55a2-59f3-8229-52f4faa41f8f:
+    created_at: 2026-10-27T04:02:25.352374Z
+    description: Living threat model for promptimize (scaffold stage).
+    file_path: docs/THREAT-MODEL.md
+    function: THREAT-MODEL
+    kind: file
+    line: 3
+    locations:
+      - file_path: docs/THREAT-MODEL.md
+        line: 3
+    token: 𔕂𔏴𓱯𓠏
+    updated_at: 2026-10-27T04:02:25.352374Z
+  fed9ec92-3e48-5d4c-a6c9-f011504593ab:
+    created_at: 2026-10-27T04:02:25.352369Z
+    description: Navigable map of the promptimize repository structure.
+    file_path: docs/PROJ-LAYOUT.md
+    function: PROJ-LAYOUT
+    kind: file
+    line: 3
+    locations:
+      - file_path: docs/PROJ-LAYOUT.md
+        line: 3
+    token: 𔎯𔑎𓰟𔔫
+    updated_at: 2026-10-27T04:02:25.352369Z
