@@ -1,5 +1,7 @@
 # Promptimize
 
+<!-- 〚📁:9d2e788e-1b45-5921-a9e2-6e11570e2761〛 Promptimize README :: Project entry point: what/why, clients, backend contract pointers. -->
+
 **Repo:** https://github.com/the-robot-lives/promptimize
 
 > Capture, organize, evaluate, and optimize your prompts — with a Chrome extension, a VS Code extension, and a shared prompt store.
