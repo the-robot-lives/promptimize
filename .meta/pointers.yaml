@@ -1,0 +1,26 @@
+---
+pointers:
+  11e95da5-be31-57ee-af64-7d98071041f3:
+    created_at: 2026-10-27T04:01:08.421327Z
+    description: Draft resource/endpoint contract for the shared prompt store.
+    file_path: docs/BACKEND.md
+    function: Promptimize Backend API
+    kind: file
+    line: 3
+    locations:
+      - file_path: docs/BACKEND.md
+        line: 3
+    token: 𔈒𓛾𓰐𔐃
+    updated_at: 2026-10-27T04:01:08.421327Z
+  9d2e788e-1b45-5921-a9e2-6e11570e2761:
+    created_at: 2026-10-27T04:01:08.421313Z
+    description: 'Project entry point: what/why, clients, backend contract pointers.'
+    file_path: README.md
+    function: Promptimize README
+    kind: file
+    line: 3
+    locations:
+      - file_path: README.md
+        line: 3
+    token: 𓳗𓟌𓔏𓆱
+    updated_at: 2026-10-27T04:01:08.421313Z

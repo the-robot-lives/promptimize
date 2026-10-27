@@ -1,5 +1,7 @@
 # Promptimize Backend — API / Store (DRAFT)
 
+<!-- 〚📁:11e95da5-be31-57ee-af64-7d98071041f3〛 Promptimize Backend API :: Draft resource/endpoint contract for the shared prompt store. -->
+
 Base URL: `https://promptimize.therobot.institute`
 
 Both clients (Chrome extension, VS Code extension) treat this as the canonical
